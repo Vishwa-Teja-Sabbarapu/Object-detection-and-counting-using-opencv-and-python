@@ -274,10 +274,6 @@ Please, See the [detection model zoo](https://github.com/tensorflow/models/blob/
 
 You can perform transfer learning on trained TensorFlow models to build your custom object counting systems!
 
-## Project Demo
-
-Demo video of the project is available on [My YouTube Channel](https://www.youtube.com/watch?v=bas6c8d1JyU).
-
 ## Installation
 
 ### Dependencies
@@ -300,19 +296,6 @@ Tensorflow Object Counting API depends on the following libraries:
 For detailed steps to install Tensorflow, follow the [Tensorflow installation instructions](https://www.tensorflow.org/install/). 
 
 TensorFlow Object Detection API have to be installed to run TensorFlow Object Counting API, for more information, please see [this](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md).
-
-## Citation
-If you use this code for your publications, please cite it as:
-
-    @ONLINE{tfocapi,
-        author = "Ahmet Özlü",
-        title  = "TensorFlow Object Counting API",
-        year   = "2018",
-        url    = "https://github.com/ahmetozlu/tensorflow_object_counting_api"
-    }
-
-## Author
-Ahmet Özlü
 
 ## License
 This system is available under the MIT license. See the LICENSE file for more info.
